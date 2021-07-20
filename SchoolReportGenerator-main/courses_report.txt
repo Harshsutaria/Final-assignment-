@@ -1,0 +1,8 @@
+CID           Name             Pt.         Enl.        Avg.      
+___________________________________________________________
+C081     *    Mathematics      12          2           99        
+C082     *    Science          12          3           83        
+C083     *    English          24          3           65        
+C084     -    Technologies     6           2           57        
+___________________________________________________________
+The worse performing course is C084 with an average 57

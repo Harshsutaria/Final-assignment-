@@ -1,0 +1,20 @@
+
+20/07/2021 16:07
+SID       Name             Mode        CrPt           GPA       
+________________________________________________________     
+S2123     Sue_Vaneer       FT          54        3.56      
+S1909     Barry_Banks      PT          24 !      2.0       
+S2025     Robin_Smith      FT          24 !      3.0       
+
+20/07/2021 16:07
+SID       Name             Mode        CrPt           GPA       
+________________________________________________________     
+S2123     Sue_Vaneer       FT          54        3.56      
+S1909     Barry_Banks      PT          24 !      2.0       
+S2025     Robin_Smith      FT          24 !      3.0       
+SID       Name             Mode        CrPt       GPA       
+
+________________________________________________________     
+S2123     Sue_Vaneer       FT          4         3.25      
+S2025     Robin_Smith      FT          3  !      2.33      
+S1909     Barry_Banks      PT          3         2.67      
